@@ -1,0 +1,6 @@
+#!/bin/bash
+
+## use source instead of `./` to execute the script
+## then use deactivate to remove the virtual environment
+
+source env/bin/activate
